@@ -1,0 +1,2 @@
+# graylog
+Perform Graylog Search
